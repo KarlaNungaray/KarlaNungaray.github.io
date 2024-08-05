@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #691225;
+  color: #000000;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color: #691225;
+  color: #000000;
 }
 
 .color-d {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #691225;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -160,7 +160,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #691225;
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -179,7 +179,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #691225;
+  background-color: #000000;
   width: 100px;
   bottom: -12px;
 }
@@ -216,12 +216,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #691225;
+  box-shadow: 0 0 0 3px #000000;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #691225;
+  background-color: #000000;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -260,7 +260,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #691225;
+  box-shadow: 0 0 0 10px #000000;
   display: block;
 }
 
@@ -291,7 +291,7 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #d57e91;
+  background-color: #544d4e;
   width: 25px;
 }
 
@@ -307,7 +307,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #691225;
+  background-color: #000000;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -326,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #691225;
+  background: #000000;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -364,7 +364,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #691225;
+  border-top: 6px solid #000000;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -481,26 +481,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #691225;
+  color: #000000;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #691225;
+  background-color: #000000;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #691225;
+  color: #000000;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #691225;
+  color: #000000;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #691225;
+  color: #000000;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -532,13 +532,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #691225;
+  background-color: #000000;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #691225;
+  background-color: #000000;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -652,7 +652,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #691225;
+  color: #000000;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -689,7 +689,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #ae828b;
+  background-color: #736467;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
@@ -697,7 +697,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #691225;
+  background-color: #000000;
 }
 
 /*======================================
@@ -714,8 +714,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #691225;
-  box-shadow: 0 0 0 10px #ae828b;
+  background-color: #000000;
+  box-shadow: 0 0 0 10px #736467;
 }
 
 .service-box .service-ico {
@@ -756,7 +756,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #ae828b;
+  box-shadow: 0 0 0 10px #736467;
 }
 
 .counter-num .counter {
